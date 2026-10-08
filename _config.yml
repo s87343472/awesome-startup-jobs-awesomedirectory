@@ -1,0 +1,18 @@
+title: Awesome Startup Jobs
+description: "Job boards, funding trackers, salary data, and research tools for finding and vetting jobs at venture-backed startups."
+url: "https://awesomedirectory.github.io"
+baseurl: "/awesome-startup-jobs"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+twitter:
+  username: awesomedirectory
+  card: summary
+social:
+  name: Awesome Directory
+  links:
+    - https://github.com/awesomedirectory
+author:
+  name: Awesome Directory
+  url: https://github.com/awesomedirectory
+keywords: "startup jobs, startup job boards, venture-backed startups, recently funded startups hiring, awesome list"
