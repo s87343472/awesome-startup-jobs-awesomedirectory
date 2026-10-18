@@ -21,6 +21,7 @@ Startups hire hardest in the months right after a funding round. This list is or
 *General boards focused on startup and tech roles.*
 
 * [Built In](https://builtin.com/jobs) - Tech jobs and company profiles organized by city, with filters for company size and remote work.
+* [DMtheFounder](https://dmthefounder.com) - Free board of early engineering and founding roles posted by startup founders on X and Hacker News, linking to the original post.
 * [Wellfound](https://wellfound.com/jobs) - Startup job board (formerly AngelList Talent) that shows salary and equity ranges on most listings.
 * [Welcome to the Jungle](https://www.welcometothejungle.com) - Curated tech jobs with company culture profiles (absorbed Otta in 2024).
 * [Work at a Startup](https://www.workatastartup.com) - Y Combinator's job board for roles at YC-backed companies, with one profile for all applications.
